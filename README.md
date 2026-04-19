@@ -34,3 +34,5 @@ The main objective is to accurately forecast electricity usage and support effic
 
 The Random Forest model provided the best performance among all models. The analysis shows that electricity consumption is highest during evening hours and lowest during midnight. Time and day type are key factors influencing electricity usage.
 
+## Author
+  **Anjana raj N**
